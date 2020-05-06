@@ -29,3 +29,13 @@ header h1{
 
 
 }
+
+.box {
+  border: 1px solid black;
+}
+
+@media screen and (max-width: 500px) {
+  p {
+    color: red;
+  }
+}
